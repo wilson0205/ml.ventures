@@ -1,0 +1,24 @@
+---
+title: SoftTech VC Closes $150M Across Two New Funds
+date: 2016-06-18 06:02:00 Z
+---
+
+Today, SoftTech VC (http://www.softtechvc.com) announced the closing of SoftTech VC V, a $100 million seed stage venture capital fund, and SoftTech VC Plus, a $50M opportunity fund. Fund V will invest in approximately 40 startups over three years in SaaS/B2B, connected devices, marketplaces, and monetized consumer services. The Plus Fund will focus on select growth stage opportunities across previous SoftTech VC funds.
+
+“The last 12 months have been pivotal for SoftTech: we had the first portfolio company IPO with Fitbit, which we helped build as initial institutional investors; we promoted Stephanie Palmeri and Andy McLoughlin to Partners, and now, we’re announcing two new funds and doubling our assets under management” said Jeff Clavier, SoftTech VC’s Founder and Managing Partner. “Most importantly, we are beyond excited by the myriad of new, radical innovations we see coming from early stage entrepreneurs and the opportunity we have to help them realize their vision with our active support and capital.”
+
+SoftTech VC Fund V will make initial investments of $500,000 to $1.5 million, with the goal of owning a 7-10% ownership stake in early stage companies. The team plans to invest about $40 million in approximately 40 companies over 3 years, leaving $60 million earmarked for follow-ons in Series A and Series B financings. The geographic mix is expected to mirror the current makeup of active portfolio companies, of which 80% are located in San Francisco/Silicon Valley, with New York/Boston, Boulder, Southern California, and Toronto-Waterloo forming the balance.
+
+In addition to Fund V, the partners also closed an opportunity fund vehicle, the Plus Fund. “As micro VC fund managers, we’ve traditionally been able to put our dollars to work in a company’s seed round and follow-on in their Series A and Series B rounds. Our ability to leverage our pro rata in later rounds has been limited by our fund sizes. Over the years, we found ourselves leaving money on the table when opportunities like FitBit’s Series D arouse. As a result, we’ve launched the Plus Fund, our first cross-fund opportunity vehicle that will enable us to invest in growth rounds for select portfolio companies”, said SoftTech VC Partner Stephanie Palmeri. “The $50M Plus Fund will invest in select Series C and Series D opportunities as far back as Fund II and leverage the strong relationships we’ve built with SoftTech VC founders over the years.” The firm expects to commit between $2M to $5M per deal and has made a first Plus Fund investment of $3M in the $35M Series C round of Vidyard.
+
+SoftTech VC’s key sectors are Software-As-A-Service (SaaS) – including mobile infrastructure and services, vertical SaaS and cloud infrastructure, B2C services and connected devices, and marketplaces. The firm will also continue to invest in existing themes including Digital Health and EdTech while more deeply exploring new areas including GovTech AI, VR/AR, robotics, and autonomous vehicles.
+
+“SoftTech VC was an early investor in the consumer hardware space, recognizing with Fitbit that hardware companies could enjoy the same capital efficiencies as software startups. We continue to invest in hard, cutting-edge technology businesses - spanning hardware and software - that are solving real world problems” said Andy McLoughlin, a Partner at SoftTech VC. “The application of artificial intelligence and machine learning has opened the doors to exciting businesses focusing on areas as diverse as cybersecurity, logistics, retail, healthcare, and human resources. 
+
+Similarly, we’re seeing companies apply robotics and automation in fascinating ways to industries like manufacturing, hospitality, and healthcare. Virtual, mixed, and augmented reality presents a multitude of opportunities beyond the obvious and we’re excited to see how entrepreneurs use these platforms to build products beyond gaming and entertainment.”
+
+SoftTech VC funds are backed by a mix of institutional LPs, family offices and individual investors - often successful entrepreneurs from previous SoftTech portfolio companies. Clavier reported that all of SoftTech VC’s Fund IV’s institutional LPs returned in Fund V. In total, the firm welcomed 40 investors in this raise: 18 institutional, 16 individuals and 6 family offices.
+
+One of the original “micro VCs” in Silicon Valley, SoftTech VC now has over $300M under management. Over the years, SoftTech VC has seen a large number of M&A transactions like Mint [Intuit], LiveRamp [Axciom], Milo [eBay], Wildfire [Google], Bleacher Report [Turner], Gnip [Twitter], Brightroll [Yahoo], the Fitbit IPO [FIT], and its portfolio includes Eventbrite, Sendgrid, Poshmark, Postmates, Hired, Vungle, DroneDeploy, Shippo, Front and Molekule.
+
+Source: prweb
